@@ -20,11 +20,12 @@ browserify -t [babelify] ./app/index.js -o ./app/build/app.js
 ```
 
 # Included Packages
-**react**
-**react-dom**
-**react-router**
-**babel-preset-react**
-**babelify**
-**browserify**
+**react**  
+**react-dom**  
+**react-router**  
+**babel-preset-react**  
+**babelify**  
+**browserify**  
+
 ## Coming Soon
-flux
+flux  
