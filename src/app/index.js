@@ -5,6 +5,7 @@ var ReactRouter = require('react-router');
 var Router = ReactRouter.Router;
 var Route = ReactRouter.Route;
 var History = ReactRouter.hashHistory;
+var App = require('./app.js');
 
 /* Define Your Routes Here */
 ReactDOM.render((
