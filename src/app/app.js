@@ -6,7 +6,8 @@ var App = React.createClass({
     render: function() {
         return (
             <div>
-                Hello World!
+                Hello World! <br />
+                This is a shell app written for React applications                
             </div>
         )
     }
